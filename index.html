@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <title>Salvar Arquivos</title>
+</head>
+<body>
+    <div class="wrapper">
+        <textarea placeholder="Escreva...">
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium voluptatem ad itaque architecto quas necessitatibus voluptas aspernatur non ipsum quasi veritatis dolores, dolorem tempore est reprehenderit consequatur nobis. Ad, cumque!
+        </textarea>
+        <div class="file-options">
+            <div class="option file-name">
+                <label style="color: #ffc400;">Nome do Arquivo</label>
+                <input style="background-color: #242424; color: #ffffff; border: 2px solid #303030;" type="text" placeholder="Insira o nome...">
+            </div>
+            <div class="option save-as">
+                <label style="color: #ffc400;">Salvar como</label>
+                <div class="select-menu" style="background-color: #242424; color: #ffffff; border: 2px solid #303030;">
+                    <select style="background-color: #242424; color: #cecece;">
+                        <option value="text/plain">TXT File(.txt)</option>
+                        <option value="text/javascript">JavaScript File(.js)</option>
+                        <option value="text/html">HTML File(.html)</option>
+                        <option value="image/svg+xml">SVG File(.svg)</option>
+                        <option value="application/msword">DOC File(.doc)</option>
+                        <option value="application/vnd.ms-powerpoint">PowerPoint File(.ppt)</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <button class="save-btn">Salvar arquivo</button>
+    </div>
+</body>
+
+<script src="assets/js/main.js" defer></script>
+
+</html>
+
