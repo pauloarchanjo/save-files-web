@@ -35,7 +35,7 @@ body{
     resize: none;
     padding: 8px 13px;
     background-color: #202020;
-    color: #ffc400;
+    color: #ffe695;
     border: none;
 }
 
@@ -67,8 +67,29 @@ body{
     color: #141414;
 }
 
+.text-above-option{
+    color: #ffe695;
+}
+
+.input-name-text{
+    background-color: #242424; 
+    color: #ffffff; 
+    border: 2px solid #303030;
+}
+
+.select-menu{
+    background-color: #242424;
+    color: #ffffff;
+    border: 2px solid #303030;
+}
+
+.option-selector{
+    background-color: #242424;
+    color: #cecece;
+}
+
 .wrapper .save-btn{
-    color: #ffc400;
+    color: #ffe695;
     margin-top: 20px;
     padding: 16px 0;
     cursor: pointer;
@@ -77,6 +98,6 @@ body{
 }
 
 .save-btn:hover{
-    background: #ffc400;
+    background: #ffe695;
     color: #141414;
 }
