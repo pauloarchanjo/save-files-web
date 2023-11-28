@@ -1,4 +1,5 @@
 # <div align="center">Save-files-HTML</div>
-<div align="center">Código que salva um texto escrito em um arquivo(ex: .txt, .html, .js, .svg), uma solução eficiente e versátil para este tipo de tarefa. Agora, você pode facilmente preservar suas anotações, códigos ou conteúdos importantes em arquivos, tornando seu trabalho mais organizado e acessível. Feito com a Tríade Web (HTML, CSS e JavaScript).</div><br>
+<div align="center">Code that saves a written text in a file (e.g. .txt, .html, .js, .svg), an efficient and versatile solution for this type of task. Now, you can easily preserve your notes, code, or important content in files, making your work more organized and accessible. Made with the Web Triad (HTML, CSS, and JavaScript).
+</div><br>
 
 ![Screenshot](frontpage2.png)
